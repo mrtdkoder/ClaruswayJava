@@ -12,7 +12,7 @@ public class j12_Arrays {
             }
         }
         String tempStr = Arrays.toString(temp.split(","));
-        System.out.println(tempStr);
+        System.out.println(tempStr); // Print
         //bu da boyle bisey iste
         }
     }
