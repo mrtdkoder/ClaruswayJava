@@ -11,7 +11,8 @@ public class j12_Arrays {
                 temp += isimArr[i] +",";
             }
         }
-        System.out.println(Arrays.toString(temp.split(",")));
+        String tempStr = Arrays.toString(temp.split(","));
+        System.out.println(tempStr);
         //bu da boyle bisey iste
         }
     }
